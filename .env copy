@@ -1,0 +1,3 @@
+VUE_APP_BE=http://localhost:3000
+MONGODB_URI=mongodb+srv://Kristian_01:test@cluster0.rsfz8.mongodb.net/Mongolid?retryWrites=true&w=majority
+VUE_APP_BE=http://localhost:3001
